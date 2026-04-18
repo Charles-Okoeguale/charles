@@ -1,7 +1,7 @@
 
 var i = 0;
-var txt = 'I am a Fullstack engineer with a deep foundation in AI. I have trained my own language model from scratch, understand the full arc from model training to orchestration and agents.';
-var speed = 30;
+var txt = 'I am a Full-stack engineer with solid experience building products across different domains. I have a deep foundation in AI. I have trained my own language model from scratch, understand the full arc from pre-training and fine-tuning to orchestration and agents.';
+var speed = 28;
 
 window.addEventListener('load', function typeWriter() {
     if (i < txt.length) {
