@@ -1,6 +1,6 @@
 
 var i = 0;
-var txt = 'I design software with and for people. My background in software and mechanical engineering. I dare mighty things.';
+var txt = 'I am a Fullstack engineer with a deep foundation in AI. I have trained my own language model from scratch, understand the full arc from model training to orchestration and agents.';
 var speed = 30;
 
 window.addEventListener('load', function typeWriter() {
