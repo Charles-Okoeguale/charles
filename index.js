@@ -43,3 +43,7 @@ function switchMode() {
             break
     }
 }
+
+
+
+// First B : 1992 
